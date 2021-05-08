@@ -1,4 +1,14 @@
+<!-- Actual text -->
 ### Hi there 👋
+You can find me on [![Twitter][1.2]][1].
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter :D)
+<!-- Links to your social media accounts -->
+[1]: https://twitter.com/Coffin_Man2
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enderschesi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **enderschesi/enderschesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
