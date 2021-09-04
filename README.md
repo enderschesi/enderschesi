@@ -1,26 +1,8 @@
 <!-- Actual text -->
-### Hi there 👋
-You can find me on [![Twitter][1.2]][1].
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter :D)
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/Coffin_Man2
+# Hi there 👋
 
+## My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enderschesi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<!--
-**enderschesi/enderschesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Wakatime Stats
+<img src=https://raw.githubusercontent.com/enderschesi/enderschesi/main/images/wakatime_weekly_language_stats.svg/>
