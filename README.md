@@ -1,8 +1,10 @@
-<!-- Actual text -->
-# Hi there 👋
+<h1 align="center">Welcome to enderschesi's profile!</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FD428D&center=true&size=22&lines=Self-thaught+Developer;Helping+where+ever+I+can;Im+always+up+for+something+new"/>
+</p>
 
-## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enderschesi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">My GitHub Infos</h2>
 
-## My Wakatime Stats
-<img src=https://raw.githubusercontent.com/enderschesi/enderschesi/main/images/wakatime_weekly_language_stats.svg />
+<p align="center">
+  <img title="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=enderschesi&theme=radical&hide_border=true"/>
+</p>
