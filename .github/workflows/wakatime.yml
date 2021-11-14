@@ -8,7 +8,7 @@ on:
 jobs:
   update-charts:
     name: Update wakatime stats charts
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux]
     steps:
       - uses: divykj/wakatime-charts@master
         with:
